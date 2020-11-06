@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'ToDo APP') }}</title>
+    <title>{{ config('app.name', 'React Laravel Boilerplate') }}</title>
 
     <!-- Styles -->
     <link href="{{ asset(mix('/css/app.css')) }}" rel="stylesheet">
